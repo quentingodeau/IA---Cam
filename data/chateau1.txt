@@ -1,0 +1,16 @@
+% Test  des coups possibles lorsque le joueur doit entré dans son chateau
+%  ABCDEFG
+01    *    01
+02   b-b   02
+03  n----  03
+04 ------- 04
+05 ------- 05
+06 ------- 06
+07 ------- 07
+08 ------- 08
+09 ------- 09
+10 ------- 10
+11  -----  11
+12   ---   12
+13    *    13
+%  ABCDEFG
